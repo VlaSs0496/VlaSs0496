@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Java and Kotlin applications development and unit testing. 
+- 🔭 &nbsp; I’m currently learning Java and Kotlin applications development. 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying systems engineering at the University of San Buenaventura, in Cali, Colombia.
 - 💼 &nbsp; Back-end developer and soon Mobile Developer too.
