@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Vladmir Fernandez. </h2>
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47ngsz49y0f0iinpppm17mh9cmtgvbx3ykl8et0dih&rid=giphy.gif&ct=g" width="500"/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif?cid=ecf05e47dznzanb8rw3mgv2k0hpzd3kgb5nlbcmpm46u3hzt&rid=giphy.gif&ct=g" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
