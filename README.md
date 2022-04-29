@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Java and Kotlin applications development. 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying systems engineering at the University of San Buenaventura, in Cali, Colombia.
-- 💼 &nbsp; Back-end developer and soon Mobile Developer too.
+- 💼 &nbsp; Mobile Developer and Back-end developer.
 - 🌱 &nbsp; Enthusiast in mobile development.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
