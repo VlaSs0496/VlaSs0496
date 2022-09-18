@@ -12,11 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Kotlin | TypeSript | GO | Python
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Posgresql | Oracle | MongoDB
-- 🔧 &nbsp; PyCharm | VS Code | Android Studio | Git 
-- 🤔 &nbsp; Learning React | Django | Docker
+- 💻 &nbsp; Java | Kotlin | javaSript 
+- 🛢 &nbsp; MySQL | Firebase | Posgresql | MongoDB
+- 🔧 &nbsp; React Native | VS Code | Android Studio | Git 
+- 🤔 &nbsp; Learning React | Flutter | Docker
 
 
 <br>
