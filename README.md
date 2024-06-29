@@ -1,31 +1,30 @@
-<h2>Hello, I'm Vladimir Fernandez!</h2>
-<img align="right" alt="Animated GIF" src="https://media2.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif?cid=ecf05e47dznzanb8rw3mgv2k0hpzd3kgb5nlbcmpm46u3hzt&rid=giphy.gif&ct=g" width="500"/>
+<h2> Hey there! I'm Vladmir Fernandez. </h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h3> 👨🏻‍💻 About Me </h3>
 
-<h3>About Me</h3>
+- 🔭 &nbsp; Dedicated and results-driven software engineer with 2 years of experience in software development.
+- 🤔 &nbsp; Highly skilled in mobile development using Android Studio and Kotlin technologies.
+- 🎓 &nbsp; Demonstrated capacity for effective teamwork and adaptability to changing project requirements.
+- 💼 &nbsp; A self-taught individual who is passionate about continuous learning and staying up-to-date with the latest industry trends and technologies.
+- 🌱 &nbsp; Committed to delivering high-quality solutions that meet client requirements and exceed expectations.
+- ☕ &nbsp; Proven track record of successfully completing projects on time and within budget.
+- 🌐 &nbsp; A proactive problem-solver with excellent analytical and troubleshooting skills.
 
-- 🔭 &nbsp; Currently enhancing my skills in Java and Kotlin application development.
-- 🌟 &nbsp; Actively exploring new technologies and developing innovative software solutions.
-- 🎓 &nbsp; Pursuing a degree in Systems Engineering at the University of San Buenaventura, Cali, Colombia.
-- 💼 &nbsp; Experienced in Mobile and Backend Development.
-- 🌱 &nbsp; Passionate about mobile technology.
-- ☕ &nbsp; I believe a perfect cup of coffee is the best remedy for any stress.
+<h3>🛠 Tech Stack</h3>
 
-<h3>Technical Skills</h3>
+- 💻 &nbsp; Java | Kotlin | JavaSript 
+- 🛢 &nbsp; MySQL | Firebase | Xampp | Postman | MongoDB
+- 🔧 &nbsp; React Native | VS Code | Android Studio | Git
+- 🛠️ &nbsp; CI/CD: GitLab CI | GitHub Actions | Bitrise
+- 🧪 &nbsp; Testing: JUnit | Mockito | Cypress
+- 🔒 &nbsp; Security: OAuth 
 
-- 💻 &nbsp; Proficient in: Java | Kotlin | JavaScript
-- 🛢 &nbsp; Database Management: MySQL | Firebase | PostgreSQL | MongoDB
-- 🔧 &nbsp; Tools: React Native | VS Code | Android Studio | Git
-- 📚 &nbsp; Currently Learning: React | Flutter | Docker
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VlaSs0496&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vladimir's Github Stats">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VlaSs0496&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/VlaSs0496/github-readme-stats)
-
-<h3>Connect with Me</h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/vladimir0418/?hl=es" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-  <a href="https://www.linkedin.com/in/vladimir-fernandez-9063731a9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/vladimir0418/?hl=es" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/vladimir-fernandez-9063731a9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
 
 ⭐️ From [VlaSs0496](https://github.com/VlaSs0496)
