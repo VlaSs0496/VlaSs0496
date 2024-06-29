@@ -1,30 +1,23 @@
 <h2> Hey there! I'm Vladmir Fernandez. </h2>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif?cid=ecf05e47dznzanb8rw3mgv2k0hpzd3kgb5nlbcmpm46u3hzt&rid=giphy.gif&ct=g" width="500"/>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Java and Kotlin applications development. 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying systems engineering at the University of San Buenaventura, in Cali, Colombia.
-- 💼 &nbsp; Mobile Developer and Back-end developer.
-- 🌱 &nbsp; Enthusiast in mobile development.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; Dedicated and results-driven software engineer with 2 years of experience in software development.
+- 🤔 &nbsp; Highly skilled in mobile development using Android Studio and Kotlin technologies.
+- 🎓 &nbsp; Demonstrated capacity for effective teamwork and adaptability to changing project requirements.
+- 💼 &nbsp; A self-taught individual who is passionate about continuous learning and staying up-to-date with the latest industry trends and technologies.
+- 🌱 &nbsp; Committed to delivering high-quality solutions that meet client requirements and exceed expectations.
+- ☕ &nbsp; Proven track record of successfully completing projects on time and within budget.
+- 🌐 &nbsp; A proactive problem-solver with excellent analytical and troubleshooting skills.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Kotlin | javaSript 
-- 🛢 &nbsp; MySQL | Firebase | Posgresql | MongoDB
-- 🔧 &nbsp; React Native | VS Code | Android Studio | Git 
-- 🤔 &nbsp; Learning React | Flutter | Docker
-
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VlaSs0496&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VlaSs0496&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/VlaSs0496/github-readme-stats)
+- 💻 &nbsp; Java | Kotlin | JavaSript 
+- 🛢 &nbsp; MySQL | Firebase | Xampp | Postman | MongoDB
+- 🔧 &nbsp; React Native | VS Code | Android Studio | Git
+- 🛠️ &nbsp; CI/CD: GitLab CI | GitHub Actions | Bitrise
+- 🧪 &nbsp; Testing: JUnit | Mockito | Cypress
+- 🔒 &nbsp; Security: OAuth 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
