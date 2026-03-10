@@ -1,10 +1,20 @@
 <h2>Hey there! I'm Vladimir Fernandez</h2>
 
-![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00B894&center=true&vCenter=true&width=520&lines=Senior+Mobile+%26+Backend+Developer;Android+%28Kotlin%2FJava%29+%7C+React+Native;Go+%28Golang%29+%7C+Java+Backend;AI-assisted+engineering+workflow)
+![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00B894&center=true&vCenter=true&width=520&lines=Senior+Mobile+%26+Backend+Developer)
 
 ### Current Focus
 
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=0984E3&center=true&vCenter=true&width=620&lines=Building+production-grade+Android+apps;Shipping+React+Native+features+faster;Designing+scalable+REST+APIs+in+Go+and+Java;Applying+Codex+and+Claude+Code+in+daily+delivery;Using+MCP+integrations+with+Figma+and+Jira" />
+<p>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=3DDC84&vCenter=true&width=700&lines=Android+%28Kotlin%2FJava%29+for+production-grade+mobile+apps" />
+  <br/>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=61DAFB&vCenter=true&width=700&lines=React+Native+cross-platform+feature+delivery" />
+  <br/>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00ADD8&vCenter=true&width=700&lines=Go+%28Golang%29+for+scalable+REST+APIs" />
+  <br/>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=2E7D32&vCenter=true&width=700&lines=Java+backend+services+and+clean+architecture" />
+  <br/>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=8E44AD&vCenter=true&width=700&lines=AI+workflow+with+Codex%2C+Claude+Code%2C+and+MCP+integrations" />
+</p>
 
 ### About Me
 
@@ -45,8 +55,6 @@
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude-Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Integrations-0A66C2?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### Testing and CI/CD
 
