@@ -1,19 +1,20 @@
-<svg width="1100" height="80" viewBox="0 0 1100 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current focus rotating technologies">
+<svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current focus rotating technologies">
   <style>
-    .line {
-      font-family: "Fira Code", monospace;
-      font-size: 32px;
-      font-weight: 600;
+    .frame {
       opacity: 0;
-      text-anchor: middle;
-      dominant-baseline: middle;
       animation: focusCycle 20s linear infinite;
     }
-    .l1 { fill: #3DDC84; animation-delay: 0s; }
-    .l2 { fill: #61DAFB; animation-delay: 4s; }
-    .l3 { fill: #00ADD8; animation-delay: 8s; }
-    .l4 { fill: #2E7D32; animation-delay: 12s; }
-    .l5 { fill: #8E44AD; animation-delay: 16s; }
+    .label {
+      font-family: "Fira Code", monospace;
+      font-size: 24px;
+      font-weight: 600;
+      dominant-baseline: middle;
+    }
+    .f1 { animation-delay: 0s; }
+    .f2 { animation-delay: 4s; }
+    .f3 { animation-delay: 8s; }
+    .f4 { animation-delay: 12s; }
+    .f5 { animation-delay: 16s; }
     @keyframes focusCycle {
       0% { opacity: 0; }
       8% { opacity: 1; }
@@ -22,9 +23,31 @@
       100% { opacity: 0; }
     }
   </style>
-  <text x="550" y="40" class="line l1">Android (Kotlin/Java) for production-grade mobile apps</text>
-  <text x="550" y="40" class="line l2">React Native cross-platform feature delivery</text>
-  <text x="550" y="40" class="line l3">Go (Golang) for scalable REST APIs</text>
-  <text x="550" y="40" class="line l4">Java backend services and clean architecture</text>
-  <text x="550" y="40" class="line l5">AI workflow with Codex, Claude Code, and MCP integrations</text>
+
+  <g class="frame f1">
+    <image href="icons/android.svg" x="120" y="31" width="28" height="28" />
+    <text x="162" y="45" class="label" fill="#3DDC84">Android (Kotlin/Java) for production-grade mobile apps</text>
+  </g>
+
+  <g class="frame f2">
+    <image href="icons/reactnative.svg" x="120" y="31" width="28" height="28" />
+    <text x="162" y="45" class="label" fill="#61DAFB">React Native cross-platform feature delivery</text>
+  </g>
+
+  <g class="frame f3">
+    <image href="icons/go.svg" x="120" y="31" width="28" height="28" />
+    <text x="162" y="45" class="label" fill="#00ADD8">Go (Golang) for scalable REST APIs</text>
+  </g>
+
+  <g class="frame f4">
+    <image href="icons/java.svg" x="120" y="31" width="28" height="28" />
+    <text x="162" y="45" class="label" fill="#2E7D32">Java backend services and clean architecture</text>
+  </g>
+
+  <g class="frame f5">
+    <image href="icons/codex.svg" x="120" y="31" width="24" height="24" />
+    <image href="icons/claude.svg" x="152" y="31" width="24" height="24" />
+    <image href="icons/mcp.svg" x="184" y="31" width="24" height="24" />
+    <text x="222" y="45" class="label" fill="#8E44AD">AI workflow with Codex, Claude Code, and MCP integrations</text>
+  </g>
 </svg>
