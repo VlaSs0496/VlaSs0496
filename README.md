@@ -4,7 +4,7 @@
 
 ### Current Focus
 
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00B894&vCenter=true&width=950&lines=Android+%28Kotlin%2FJava%29+%7C+React+Native+%7C+Go+%28Golang%29+%7C+Java+Backend+%7C+Codex+%7C+Claude+Code+%7C+MCP+Integrations" />
+<img src="https://raw.githubusercontent.com/VlaSs0496/VlaSs0496/main/assets/current-focus.svg" alt="Current Focus" width="100%" />
 
 ### About Me
 

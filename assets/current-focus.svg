@@ -1,0 +1,30 @@
+<svg width="1100" height="80" viewBox="0 0 1100 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current focus rotating technologies">
+  <style>
+    .line {
+      font-family: "Fira Code", monospace;
+      font-size: 32px;
+      font-weight: 600;
+      opacity: 0;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      animation: focusCycle 20s linear infinite;
+    }
+    .l1 { fill: #3DDC84; animation-delay: 0s; }
+    .l2 { fill: #61DAFB; animation-delay: 4s; }
+    .l3 { fill: #00ADD8; animation-delay: 8s; }
+    .l4 { fill: #2E7D32; animation-delay: 12s; }
+    .l5 { fill: #8E44AD; animation-delay: 16s; }
+    @keyframes focusCycle {
+      0% { opacity: 0; }
+      8% { opacity: 1; }
+      18% { opacity: 1; }
+      22% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+  <text x="550" y="40" class="line l1">Android (Kotlin/Java) for production-grade mobile apps</text>
+  <text x="550" y="40" class="line l2">React Native cross-platform feature delivery</text>
+  <text x="550" y="40" class="line l3">Go (Golang) for scalable REST APIs</text>
+  <text x="550" y="40" class="line l4">Java backend services and clean architecture</text>
+  <text x="550" y="40" class="line l5">AI workflow with Codex, Claude Code, and MCP integrations</text>
+</svg>
