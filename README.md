@@ -1,10 +1,14 @@
 <h2>Hey there! I'm Vladimir Fernandez</h2>
 
-![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00B894&center=true&vCenter=true&width=520&lines=Senior+Mobile+%26+Backend+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=34&pause=1000&color=00B894&center=true&vCenter=true&width=780&lines=Senior+Mobile+%26+Backend+Developer" alt="Typing SVG" />
+</p>
 
 ### Current Focus
 
-<img src="https://raw.githubusercontent.com/VlaSs0496/VlaSs0496/main/assets/current-focus.svg" alt="Current Focus" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VlaSs0496/VlaSs0496/main/assets/current-focus.svg" alt="Current Focus" width="100%" />
+</p>
 
 ### About Me
 
