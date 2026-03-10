@@ -4,17 +4,7 @@
 
 ### Current Focus
 
-<p>
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=3DDC84&vCenter=true&width=700&lines=Android+%28Kotlin%2FJava%29+for+production-grade+mobile+apps" />
-  <br/>
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=61DAFB&vCenter=true&width=700&lines=React+Native+cross-platform+feature+delivery" />
-  <br/>
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00ADD8&vCenter=true&width=700&lines=Go+%28Golang%29+for+scalable+REST+APIs" />
-  <br/>
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=2E7D32&vCenter=true&width=700&lines=Java+backend+services+and+clean+architecture" />
-  <br/>
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=8E44AD&vCenter=true&width=700&lines=AI+workflow+with+Codex%2C+Claude+Code%2C+and+MCP+integrations" />
-</p>
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00B894&vCenter=true&width=950&lines=Android+%28Kotlin%2FJava%29+%7C+React+Native+%7C+Go+%28Golang%29+%7C+Java+Backend+%7C+Codex+%7C+Claude+Code+%7C+MCP+Integrations" />
 
 ### About Me
 
@@ -52,8 +42,8 @@
 
 #### AI and Workflow
 
-![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude-Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Integrations-0A66C2?style=for-the-badge)
 
 #### Testing and CI/CD
