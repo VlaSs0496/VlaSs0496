@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=34&pause=1000&color=00B894&center=true&vCenter=true&width=780&lines=Senior+Mobile+%26+Backend+Developer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VlaSs0496.VlaSs0496&left_text=Profile%20views" alt="Profile views" />
+</p>
+
 ### Current Focus
 
 <p align="center">
